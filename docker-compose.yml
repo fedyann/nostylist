@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  nostylist:
-    image: nostylist
+  nostylist2:
+    image: nostylist2
     build:
       context: .
       dockerfile: ./Dockerfile
